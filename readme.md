@@ -1,10 +1,13 @@
 <h1 align="center">👋 Hi, I'm Roshika Challa</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/">
+  <a href="https://www.linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:roshika5922@gmail.com"
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link">
@@ -12,20 +15,32 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <a href="https://leetcode.com/your-username">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/your-username">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/your-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+<img align="right" alt="girl coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 <p align="center"><i>
-Passionate Machine Learning & Data Science enthusiast focused on building practical, scalable solutions using data, algorithms, and clean code.
+Passionate Machine Learning & Data Science enthusiast focused on building scalable solutions, solving real-world problems, and continuously improving through code and innovation.
 </i></p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate student with strong interest in **AI, ML, and Data Science**
-- 🔍 Enjoy solving real-world problems using **data-driven approaches**
-- 📊 Hands-on experience with **ML models, data preprocessing & analysis**
-- 🚀 Constant learner with a mindset of **building, experimenting, improving**
+- 🎓 Undergraduate student passionate about **AI, ML & Software Development**
+- 💡 Strong foundation in **Data Structures, Algorithms & Problem Solving**
+- 📊 Experience in **Machine Learning, Data Analysis & Model Building**
+- 🚀 Growth-driven mindset — always learning and building
 
 ---
 
@@ -33,9 +48,11 @@ Passionate Machine Learning & Data Science enthusiast focused on building practi
 
 ### 🖥️ Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </p>
 
 ### 🤖 Data Science / ML / NLP
@@ -50,6 +67,7 @@ Passionate Machine Learning & Data Science enthusiast focused on building practi
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
 ### 📈 Visualization Tools
@@ -67,6 +85,5 @@ Passionate Machine Learning & Data Science enthusiast focused on building practi
 ---
 
 <p align="center">
-  ⭐ Open to learning, collaboration, and impactful projects ⭐
+  ⭐ Open to internships, collaborations, and impactful tech projects ⭐
 </p>
-
