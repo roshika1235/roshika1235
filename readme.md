@@ -1,17 +1,14 @@
 <h1 align="center">👋 Hi, I'm Roshika Challa</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/roshika1235">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:roshika5922@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -27,63 +24,95 @@
   </a>
 </p>
 
-<img align="right" alt="girl coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 <p align="center"><i>
-Passionate Machine Learning & Data Science enthusiast focused on building scalable solutions, solving real-world problems, and continuously improving through code and innovation.
+Aspiring Data Scientist & Machine Learning Engineer passionate about building intelligent systems, solving real-world problems, and continuously learning through hands-on projects.
 </i></p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate student passionate about **AI, ML & Software Development**
-- 💡 Strong foundation in **Data Structures, Algorithms & Problem Solving**
-- 📊 Experience in **Machine Learning, Data Analysis & Model Building**
-- 🚀 Growth-driven mindset — always learning and building
+* 🎓 Undergraduate student at **BVRIT Hyderabad College of Engineering for Women**
+* 🤖 Strong interest in **Machine Learning, Data Science & AI**
+* 💡 Skilled in **Data Structures, Algorithms & Problem Solving**
+* 📊 Hands-on experience in **Model Building, Data Analysis & Visualization**
+* 🚀 Focused on building impactful, real-world applications
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-</p>
 
-### 🤖 Data Science / ML / NLP
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-</p>
+C | C++ | Java | C# | Python
+
+### 🤖 Data Science / ML
+
+NumPy | Pandas | Scikit-learn | TensorFlow | Keras
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
-</p>
 
-### 📈 Visualization Tools
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E7EEA?style=flat"/>
-</p>
+MySQL | Oracle SQL
 
-### 🔧 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+### 📈 Visualization
+
+Matplotlib | Seaborn
+
+### 🔧 Tools
+
+Git | GitHub | Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Customer Churn Prediction
+
+* Built a machine learning model to predict customer churn
+* Includes data preprocessing, feature engineering, and model evaluation
+* Deployed using Streamlit
+
+🔗 Live Demo:
+https://taskchurnmodel-g29hjs7ratyrbc99upm9es.streamlit.app/
+
+---
+
+### 🔹 Bangalore House Price Prediction
+
+* Developed a regression model to predict housing prices
+* Applied feature selection and data cleaning techniques
+* Interactive UI built with Streamlit
+
+🔗 Live Demo:
+https://bangolorehousepricepred-gyvse2pverrpnhbhkaamrw.streamlit.app/
+
+---
+
+## 📂 GitHub Repository
+
+Explore more of my work here:
+👉 https://github.com/roshika1235
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [roshika5922@gmail.com](mailto:roshika5922@gmail.com)
+* 💼 LinkedIn:
+  https://www.linkedin.com/in/roshika-challa-307575259-bvrit-hyderabad-college-of-engineering-for-women/
+
+---
+
+## 🌟 What I'm Looking For
+
+* Internship opportunities in **Data Science / Machine Learning**
+* Collaborations on real-world impactful projects
+* Opportunities to grow and contribute in tech
 
 ---
 
 <p align="center">
-  ⭐ Open to internships, collaborations, and impactful tech projects ⭐
+  ⭐ Always open to learning, building, and collaborating ⭐
 </p>
