@@ -221,10 +221,10 @@ class RoshikaChalla:
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <br/><br/>
-        <a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+        <a href="https://github.com/roshika1235/UrbanAtlas-Satellitle-imagery-dataset-for-urban-analysis" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>&nbsp;
-        <a href="YOUR_PUBLISHED_PAPER_LINK_HERE" target="_blank">
+        <a href="https://ijirt.org/publishedpaper/IJIRT196838_PAPER.pdf" target="_blank">
           <img src="https://img.shields.io/badge/📄%20Published%20Paper-Read%20Now-0A66C2?style=for-the-badge&logo=researchgate&logoColor=white"/>
         </a>
       </p>
