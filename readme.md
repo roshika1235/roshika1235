@@ -167,6 +167,72 @@ class RoshikaChalla:
     </td>
   </tr>
 </table>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔹 Image Fusion Using Wavelet Transform</h3>
+      <br/>
+      <p align="center">
+        ✔ Wavelet-based system combining partially blurred images into one enhanced output<br/>
+        ✔ Applied DWT4 to extract & fuse high/low-frequency image components<br/>
+        ✔ Improved image clarity through multi-resolution analysis techniques<br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyWavelets-013243?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔹 RentalSync — Data Engineering Pipeline</h3>
+      <br/>
+      <p align="center">
+        ✔ End-to-end pipeline integrating reservations, payments & telematics datasets<br/>
+        ✔ Implemented data cleaning, feature engineering & cross-domain integration<br/>
+        ✔ Automated testing with Pytest for data quality & transformation accuracy<br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+
+---
+
+<!-- ═══════════════════ RESEARCH PUBLICATIONS ═══════════════════ -->
+## 📄 Research Publications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🔬 Urban Atlas: Satellite Imagery for Urban Analysis</h3>
+      <p align="center">
+        <b>International Journal of Innovative Research in Technology (IJIRT)</b><br/>
+        Vol. 12, No. 11, 2026
+      </p>
+      <p align="center">
+        ✔ Published research in Computer Vision & Urban Analysis using satellite imagery<br/>
+        ✔ Developed the <b>UrbanAtlas dataset</b> for urban land-use mapping & spatial analysis<br/>
+        ✔ Explored image processing & feature extraction for urban pattern analysis<br/>
+        ✔ Designed scalable methodologies for urban imagery interpretation<br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <br/><br/>
+        <a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>&nbsp;
+        <a href="YOUR_PUBLISHED_PAPER_LINK_HERE" target="_blank">
+          <img src="https://img.shields.io/badge/📄%20Published%20Paper-Read%20Now-0A66C2?style=for-the-badge&logo=researchgate&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
