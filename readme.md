@@ -247,6 +247,7 @@ class RoshikaChalla:
 | ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | 22wh1ajn8 | [→ View Profile](https://www.geeksforgeeks.org/profile/22wh1ajn8) |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | challa_roshika | [→ View Profile](https://www.codechef.com/users/challa_roshika) |
 | ![InterviewBit](https://img.shields.io/badge/InterviewBit-1A1A1A?style=flat-square&logoColor=white) | roshika_challa | [→ View Profile](https://www.interviewbit.com/profile/roshika_challa/) |
+| ![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=flat-square&logoColor=white) | **roshika_challa** | [→ View Profile](https://codolio.com/profile/roshika_challa) |
 
 </div>
 
